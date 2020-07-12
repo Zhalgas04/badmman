@@ -1,0 +1,52 @@
+[07/06/2020 22:28:30] [d(0)] core: Created user based module store
+[07/06/2020 22:28:37] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[07/06/2020 22:28:37] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[07/06/2020 22:28:38] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[07/06/2020 22:28:38] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[07/06/2020 22:28:39] [e(0)] core: Failed to connect to the database: No database YAML file
+[07/06/2020 22:28:39] [e(0)] core: ArgumentError : invalid payload: android/meterpreter/rervers_tcp
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:164:in `initialize'
+/usr/bin/msfvenom:467:in `new'
+/usr/bin/msfvenom:467:in `<main>'
+[07/06/2020 22:30:29] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[07/06/2020 22:30:29] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[07/06/2020 22:30:30] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[07/06/2020 22:30:30] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[07/06/2020 22:30:31] [e(0)] core: Failed to connect to the database: No database YAML file
+[07/06/2020 22:40:52] [e(0)] core: Failed to connect to the database: No database YAML file
+[07/06/2020 22:40:57] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[07/06/2020 22:40:57] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[07/06/2020 22:40:58] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[07/06/2020 22:40:58] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[07/06/2020 23:06:22] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[07/06/2020 23:06:22] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[07/06/2020 23:06:22] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[07/06/2020 23:06:22] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[07/06/2020 23:06:23] [e(0)] core: Failed to connect to the database: No database YAML file
+[07/06/2020 23:12:50] [e(0)] core: Failed to connect to the database: No database YAML file
+[07/06/2020 23:12:56] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[07/06/2020 23:12:56] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[07/06/2020 23:12:56] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[07/06/2020 23:12:56] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[07/07/2020 07:22:09] [e(0)] core: Failed to connect to the database: No database YAML file
+[07/07/2020 07:22:16] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[07/07/2020 07:22:16] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[07/07/2020 07:22:17] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[07/07/2020 07:22:17] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[07/07/2020 07:23:59] [e(0)] core: Failed to connect to the database: No database YAML file
+[07/07/2020 07:24:06] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[07/07/2020 07:24:06] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[07/07/2020 07:24:07] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[07/07/2020 07:24:07] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[07/07/2020 08:30:54] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[07/07/2020 08:30:54] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[07/07/2020 08:30:55] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[07/07/2020 08:30:55] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[07/07/2020 08:31:15] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[07/07/2020 08:31:15] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[07/07/2020 08:31:15] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[07/07/2020 08:31:15] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[07/07/2020 08:31:53] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[07/07/2020 08:31:53] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[07/07/2020 08:31:53] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[07/07/2020 08:31:53] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported

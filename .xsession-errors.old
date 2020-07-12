@@ -1,0 +1,177 @@
+Xsession: X session started for root at Sat 11 Jul 2020 12:44:44 AM EDT
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/0/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/root/.Xauthority
+localuser:root being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=root
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/root
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/0/bus
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=root
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+dbus-update-activation-environment: setting GDM_LANG=en_US.utf8
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/0
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/root/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/root
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/0/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/root
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+VBoxClient: error: unrecognized option '--display'
+VBoxClient: info: Try 'VBoxClient --help' for more information
+VBoxClient: error: unrecognized option '--vmsvga-x11'
+VBoxClient: info: Try 'VBoxClient --help' for more information
+/usr/bin/x-session-manager: X server already running on display :0
+xfce4-session-Message: 00:44:45.991: SSH authentication agent is already running
+gpg-agent[1050]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:952): xfce4-session-WARNING **: 00:44:46.013: gpg-agent returned no PID in the variables
+
+(xfwm4:1053): xfwm4-WARNING **: 00:44:47.379: Unsupported GL renderer (llvmpipe (LLVM 10.0.0, 256 bits)).
+VBoxClient: error: unrecognized option '--display'
+VBoxClient: info: Try 'VBoxClient --help' for more information
+VBoxClient: error: unrecognized option '--vmsvga-x11'
+VBoxClient: info: Try 'VBoxClient --help' for more information
+
+(wrapper-2.0:1239): Gtk-WARNING **: 00:44:53.494: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:1249): WARNING **: 00:44:53.879: No outputs have backlight property
+
+(wrapper-2.0:1248): GLib-GIO-CRITICAL **: 00:44:53.942: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:1248): GLib-GIO-CRITICAL **: 00:44:53.942: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:1248): GLib-GObject-WARNING **: 00:44:53.942: invalid (NULL) pointer instance
+
+(wrapper-2.0:1248): GLib-GObject-CRITICAL **: 00:44:53.942: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:1248): Gtk-WARNING **: 00:44:53.943: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:1248): Gtk-WARNING **: 00:44:54.220: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1246): Gtk-WARNING **: 00:44:54.420: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:1249): Gtk-WARNING **: 00:44:54.752: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+** (xiccd:1334): WARNING **: 00:44:56.857: EDID is empty
+blueman-tray version 2.1.3 starting
+There is an instance already running
+blueman-applet 00.45.03 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 00.45.03 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 00.45.03 WARNING  DiscvManager:109 update_menuitems: warning: Adapter is None
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/root/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/root/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/root/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Sandbox: seccomp sandbox violation: pid 4386, tid 4386, syscall 315, args 4386 140274402100864 56 0 37 140274402100864.
+Sandbox: seccomp sandbox violation: pid 4429, tid 4429, syscall 315, args 4429 140685655835648 56 0 44 140685655835648.
+Sandbox: seccomp sandbox violation: pid 4463, tid 4463, syscall 315, args 4463 139956185169984 56 0 60 139956185169984.
+Sandbox: seccomp sandbox violation: pid 4509, tid 4509, syscall 315, args 4509 139707664263360 56 0 25 139707664263360.
+[Parent 4328, Gecko_IOThread] WARNING: pipe error (159): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Properties destructor called
+Sandbox: seccomp sandbox violation: pid 4732, tid 4732, syscall 315, args 4732 139950316685120 56 0 34 139950316685120.
+[Parent 4328, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4328, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/root/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Sandbox: seccomp sandbox violation: pid 4843, tid 4843, syscall 315, args 4843 139883936505664 56 0 2 139883936505664.
+Sandbox: seccomp sandbox violation: pid 4884, tid 4884, syscall 315, args 4884 139722981871872 56 0 57 139722981871872.
+Sandbox: seccomp sandbox violation: pid 4920, tid 4920, syscall 315, args 4920 139967063158976 56 0 58 139967063158976.
+Sandbox: seccomp sandbox violation: pid 4944, tid 4944, syscall 315, args 4944 140290840305344 56 0 4 140290840305344.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(xfwm4:1053): libxfce4ui-WARNING **: 12:54:50.130: ICE I/O Error
+
+(xfwm4:1053): libxfce4ui-WARNING **: 12:54:50.130: Disconnected from session manager.
+ICE default IO error handler doing an exit(), pid = 4776, errno = 11
+
+(xfsettingsd:1080): libxfce4ui-WARNING **: 12:54:50.132: ICE I/O Error
+
+(xfsettingsd:1080): libxfce4ui-WARNING **: 12:54:50.132: Disconnected from session manager.
+ICE default IO error handler doing an exit(), pid = 3738, errno = 11

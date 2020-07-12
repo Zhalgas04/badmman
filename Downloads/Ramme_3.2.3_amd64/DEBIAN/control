@@ -1,0 +1,13 @@
+Package: ramme
+Version: 3.2.3-132
+License: MIT
+Vendor: Terkel Gjervig <hello@terkel.com>
+Architecture: amd64
+Maintainer: Terkel Gjervig <hello@terkel.com>
+Installed-Size: 137415
+Depends: gconf2, gconf-service, libnotify4, libappindicator1, libxtst6, libnss3, libxss1
+Section: Network;
+Priority: extra
+Homepage: https://github.com/terkelg/ramme#readme
+Description: Unofficial Instagram Desktop App
+  Unofficial Instagram Desktop App
